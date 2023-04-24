@@ -183,6 +183,9 @@ if(st.sidebar.button("Clique Para Treinar o Modelo de Regressão Logística")):
     # Obrigado
     st.write("Obrigado por usar esta app do Streamlit!")
 
+    # Obrigado
+    st.write("Arthur Alves de Andrade!")
+
 
 
 
